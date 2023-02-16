@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to by GitHub containg personal projects - go on, have an explore...
+Welcome to my GitHub containg personal projects - go on, have an explore...
 
 About me:
 - 🌱 I have just finished a 16-week Data Science bootcamp to upskill myself 
